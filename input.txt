@@ -1,0 +1,6 @@
+Song 1=song1a.txt
+Song 2=song1b.txt
+Match=1
+Mismatch=0
+Gap=-1
+Allowed Similarity=90
